@@ -1,7 +1,7 @@
 # Sports Schedular
 This is sports scheduling website which is developed to make use of sports scheduling and users can able to get to know information about sports 
 
-***Live Url*** https://sports-sxob.onrender.com
+***Live Url*** https://sports-sxob.onrender.com 
 ***Admin***  *sathish@123*
 ***password*** *123*
 
